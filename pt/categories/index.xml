@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Guilherme Rettore Andreis</title>
-    <link>https://guiandreis.github.io/guilherme_andreis_porfolio/pt/categories/</link>
+    <link>https://guiandreis.github.io/guilherme_andreis_portfolio/pt/categories/</link>
     <description>Recent content in Categories on Guilherme Rettore Andreis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://guiandreis.github.io/guilherme_andreis_porfolio/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://guiandreis.github.io/guilherme_andreis_portfolio/pt/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

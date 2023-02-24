@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to my porfolio page on Guilherme Rettore Andreis</title>
-    <link>https://guiandreis.github.io/guilherme_andreis_porfolio/</link>
+    <link>https://guiandreis.github.io/guilherme_andreis_portfolio/</link>
     <description>Recent content in Welcome to my porfolio page on Guilherme Rettore Andreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://guiandreis.github.io/guilherme_andreis_porfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://guiandreis.github.io/guilherme_andreis_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Chest X-ray Pneumonia Classifier</title>
-      <link>https://guiandreis.github.io/guilherme_andreis_porfolio/post/project-1/</link>
+      <link>https://guiandreis.github.io/guilherme_andreis_portfolio/post/project-1/</link>
       <pubDate>Thu, 09 Feb 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://guiandreis.github.io/guilherme_andreis_porfolio/post/project-1/</guid>
+      <guid>https://guiandreis.github.io/guilherme_andreis_portfolio/post/project-1/</guid>
       <description>Developed a Convolutional Neural Network (CNN) that classifies Chest X-Rays images within normal and pneumonia categories to help medical diagnosis in time and assertiveness, using Flask for API connections, option for AWS EC2 for processing and AWS S3 for data storage or the to use local processing and storage.
 Developed a FLASK API to serve as the interface with users.
 The CNN model was trained using the kaggle Chest X-Ray pneumonia dataset.</description>
@@ -20,19 +20,19 @@ The CNN model was trained using the kaggle Chest X-Ray pneumonia dataset.</descr
     
     <item>
       <title>About</title>
-      <link>https://guiandreis.github.io/guilherme_andreis_porfolio/about/</link>
+      <link>https://guiandreis.github.io/guilherme_andreis_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guiandreis.github.io/guilherme_andreis_porfolio/about/</guid>
+      <guid>https://guiandreis.github.io/guilherme_andreis_portfolio/about/</guid>
       <description>Guilherme Rettore Andreis Self-motivated professional with a deep excitement for solving problems through data. Experiences as a Data Scientist and Machine Learning Engineer using machine learning and deep learning in medical images to increase the quality of acquisitions and diagnoses. Bachelor&amp;rsquo;s degree in Electrical Engineering and pursuing a Master&amp;rsquo;s in Electrical Engineering with a focus on Biomedical Engineering through the use of data science to improve the quality of medical exams and reports.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://guiandreis.github.io/guilherme_andreis_porfolio/contact/</link>
+      <link>https://guiandreis.github.io/guilherme_andreis_portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guiandreis.github.io/guilherme_andreis_porfolio/contact/</guid>
+      <guid>https://guiandreis.github.io/guilherme_andreis_portfolio/contact/</guid>
       <description>Contanct me in my social media.
 Plataform URL linkedin: https://www.linkedin.com/in/guilherme-andreis/ </description>
     </item>
