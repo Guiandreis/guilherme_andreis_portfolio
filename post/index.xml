@@ -6,14 +6,14 @@
     <description>Recent content in Projects on Guilherme Rettore Andreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://guiandreis.github.io/guilherme_andreis_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://guiandreis.github.io/guilherme_andreis_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Chest X-ray Pneumonia Classifier</title>
       <link>https://guiandreis.github.io/guilherme_andreis_portfolio/post/project-1/</link>
       <pubDate>Thu, 09 Feb 2023 10:58:08 -0400</pubDate>
       
       <guid>https://guiandreis.github.io/guilherme_andreis_portfolio/post/project-1/</guid>
-      <description>Developed a Convolutional Neural Network (CNN) that classifies Chest X-Rays images within normal and pneumonia categories to help medical diagnosis in time and assertiveness, using Flask for API connections, option for AWS EC2 for processing and AWS S3 for data storage or the to use local processing and storage.
+      <description>Developed a Convolutional Neural Network (CNN) that classifies Chest X-Rays images within normal and pneumonia categories to help medical diagnosis in assertiveness and time, using Flask for API connections, option for AWS EC2 for processing and AWS S3 for data storage or the to use local processing and storage.
 Developed a FLASK API to serve as the interface with users.
 The CNN model was trained using the kaggle Chest X-Ray pneumonia dataset.</description>
     </item>
